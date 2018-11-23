@@ -66,8 +66,6 @@ yarn-debug.log*
 /storage/*
 !/storage/.keep
 
-#keys-ssh
-/keys
-/keys.pub
+
 
 # End of https://www.gitignore.io/api/rails
