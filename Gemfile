@@ -30,7 +30,7 @@ group :development, :test do
   gem 'byebug', platform: :mri
   gem 'rspec-rails' , '~> 3.5'
 end
-
+#testes
 #novo gropo de teste
 group :test do
   gem 'database_cleaner'
